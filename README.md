@@ -2,6 +2,12 @@
 
 A Flutter app for the Gowagr Mobile Engineer assessment, displaying public events with pagination, search, category filtering, and offline support.
 
+## 📱 Download APK
+
+**Release APK**: [Download from Google Drive](https://drive.google.com/file/d/1qPdeOcY-jFohw_PT2lSTX4_tGBUoMTDh/view?usp=sharing)
+
+*File size: 22.5 MB | Build type: Release | Optimized for production*
+
 ## Setup Instructions
 1. Clone the repository: `git clone <repo-url>`
 2. Install dependencies: `flutter pub get`
